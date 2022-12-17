@@ -1,3 +1,3 @@
 # Assignment
 IBM Data Science Course Assignment.
-Click on FinalAssignment to see the Jupyter Notebook.
+Click on FinalAssignment.ipynb to see the Jupyter Notebook.
